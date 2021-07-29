@@ -1,7 +1,7 @@
 ## Olá!! Sou a Joyce Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  ### Sejam bem vindes ao meu GitHub! 
- <img align="right" alt="Joy" src="https://media.discordapp.net/attachments/860204652707708969/870420354525450350/ezgif-1-e3750eb35f4e.gif?width=180&height=180">
+ <img align="right" alt="Joy" src="https://media.discordapp.net/attachments/860204652707708969/870420354525450350/ezgif-1-e3750eb35f4e.gif?width=160&height=160">
  
 🌱 Sou Engenheira Ambiental migrando para área de tecnologia como
 Dev. Web Java Full Stack Jr pela Generation Brasil 👩‍💻 
